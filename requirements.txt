@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+numpy
+pycaret[full]
+tqdm
